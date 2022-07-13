@@ -148,3 +148,73 @@ body {
     margin-left: 50px;
     border-radius: 50px;
 }
+
+
+.donation {
+    text-align: center;
+    width: 65%;
+    margin: 0 auto;
+}
+
+.donation-text {
+    padding: 0 50px;
+}
+
+.donation-text h1 {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+
+.donation-text p {
+    font-size: 18px;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+.box-container1 {
+    display: flex;
+    margin-top: 40px;
+}
+
+.full-box {
+    display: flex;
+    text-align: left;
+    background: #FEF4F5;
+    padding: 40px;
+    border-radius: 10px;
+    margin: 8px;
+}
+
+.icon img {
+    width: 50px;
+    margin: 5px 15px;
+}
+
+.box-text h4 {
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.box-text p {
+    font-size: 18px;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+.box-container2 {
+    display: flex;
+}
+
+.image {
+    width: 80%;
+    margin: 100px auto;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-evenly;
+}
