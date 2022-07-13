@@ -207,6 +207,7 @@ body {
 
 .box-container2 {
     display: flex;
+    /* display:none */
 }
 
 .image {
